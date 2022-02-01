@@ -1,0 +1,9 @@
+{
+	"name": "Basico",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a74f295-192c-4e08-a542-ccde16ee024f",
+		"tenantId": "cf36141c-ddd7-45a7-b073-111f66d0b30c"
+	}
+}
