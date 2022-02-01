@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
+				"fileName": "5m Sales Records",
 				"folderPath": "basico",
 				"fileSystem": "landing"
 			},
