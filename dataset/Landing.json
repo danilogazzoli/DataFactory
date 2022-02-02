@@ -13,6 +13,9 @@
 				"fileName": "5m-Sales-Records.zip",
 				"folderPath": "intermediario",
 				"fileSystem": "landing"
+			},
+			"compression": {
+				"type": "ZipDeflate"
 			}
 		}
 	}
